@@ -1,0 +1,81 @@
+Epic python trivia by Gabriel Harrison
+python naming
+Who created Python, the programming lanuage.
+a:Bob Verdan
+b:Leory Jenkins
+c:Guido Van Rossum
+d:Joe Banks
+c
+Guido Van Rossum is a Dutch programmer who is the author of Python
+python dates
+What year was the Python, the programming language, released?
+a:1975
+b:2001
+c:2002
+d:1991
+d
+Created by Guido Van Rossum, and the first time it was released was in 1991.
+python vocabulary
+Nested conditional code always runs all sub-conditions that are indented under if
+a:True
+b:False
+c:wow
+d:I don't know
+b
+Nested code does not always run all sub-conditions because there are certain actions that can stop it
+python testing
+What is the output of this statement? print("Bob")
+a:'Bob'
+b:Bob
+c:Bwob
+d:"Bob"
+b
+The print statement only prints the string value.
+python picking
+Choose the correct statement.
+a:Variables only represent strings in Python.
+b:New variables always start out as zero.
+c:Variables in Python can be initialized using the equals sign (=).
+d: The same variable in Python can be represented in either upper or lower case
+c
+You can give variables different values given the equals sign
+python true or false
+In Python, strings can conatin only letters a-z and A-Z.
+a:True
+b:Bob is fast
+c:False
+d:Yo i dunno k no
+c
+Strings can contain any character.
+python picking
+Choose the correct statement.
+a:A variable name in Python can not contain numbers.
+b:Variables are updated in Python using the keyword "new."
+c:Variable values in Python can change type, from integer to string.
+d:A variable value in Python can not be updated.
+c
+You can change input value with specific keywords.
+python true or false
+You can use a "try" statement to discover specific bugs in a program
+a:What?
+b:True
+c:False
+d:My name is dead meme
+b
+A try statement is used to discover specific bugs such as a syntax error.
+python knowledge
+Which of the options is a data type
+a:Integer
+b:Float
+c:String
+d:All the above
+d
+It is a trick question; they are all correct.
+python knowledge
+Which option is a comparing operator
+a:!=
+b:+
+c:-
+d:""
+a
+!= means not equal comparing two objects. Thanks for playing
